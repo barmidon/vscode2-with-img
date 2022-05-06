@@ -1,0 +1,12 @@
+header {
+  background-color: #fbff01;
+}
+
+body {
+  font-size: 25px;
+}
+
+body div {
+  font-size: 11px;
+  color: red;
+}
